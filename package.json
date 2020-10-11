@@ -1,5 +1,5 @@
 {
-  "name": "api-freebox4G",
+  "name": "api-freebox4g",
   "version": "1.0.0",
   "description": "A wrapper to connect with and query the API on the Huawei 4G routers provided by FreeMobile",
   "main": "index.js",
